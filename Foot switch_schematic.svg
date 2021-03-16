@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="69.40625mm"
+   height="48.324997mm"
+   viewBox="0 0 69.40625 48.324997"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Foot switch_schematic2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="95.322836"
+     inkscape:cy="125.23174"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.791666,-38.014581)">
+    <rect
+       style="opacity:0.998;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.356634;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="57.228779"
+       height="47.968365"
+       x="80.790817"
+       y="38.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="79.110413"
+       y="67.73333"
+       id="text2769"><tspan
+         sodipodi:role="line"
+         id="tspan2767"
+         x="79.110413"
+         y="67.73333"
+         style="stroke-width:0.264583" /></text>
+    <g
+       id="g2783"
+       transform="translate(19.05,-7.6729167)">
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="77.787498"
+         y="56.091663"
+         id="text2773"><tspan
+           sodipodi:role="line"
+           id="tspan2771"
+           x="77.787498"
+           y="56.091663"
+           style="stroke-width:0.264583">Foot</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="78.345604"
+         y="70.908333"
+         id="text2777"><tspan
+           sodipodi:role="line"
+           id="tspan2775"
+           x="78.345604"
+           y="70.908333"
+           style="stroke-width:0.264583">switch</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.791666,69.320833 H 80.16875"
+       id="path2788" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.791666,62.0205 H 80.16875"
+       id="path2790" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.791666,76.4205 H 80.16875"
+       id="path2792" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="83.608337"
+       y="64.293747"
+       id="text2796"><tspan
+         sodipodi:role="line"
+         id="tspan2794"
+         x="83.608337"
+         y="64.293747"
+         style="font-size:6.35px;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="83.332382"
+       y="71.172913"
+       id="text2800"><tspan
+         sodipodi:role="line"
+         id="tspan2798"
+         x="83.332382"
+         y="71.172913"
+         style="font-size:6.35px;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="83.273476"
+       y="78.052078"
+       id="text2804"><tspan
+         sodipodi:role="line"
+         id="tspan2802"
+         x="83.273476"
+         y="78.052078"
+         style="font-size:6.35px;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">SIG</tspan></text>
+  </g>
+</svg>
